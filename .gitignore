@@ -6,6 +6,7 @@
 *.log
 *.idb
 *.pdb
+x64/
 
 # Compiled Object files
 *.slo
