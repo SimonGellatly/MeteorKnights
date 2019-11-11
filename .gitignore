@@ -1,6 +1,12 @@
 # Prerequisites
 *.d
 
+# Existing Items
+*.vcxproj
+*.log
+*.idb
+*.pdb
+
 # Compiled Object files
 *.slo
 *.lo
