@@ -2,7 +2,8 @@
 #include <iostream>
 
 int main() {
+	std::cout << "Heylo";
 
-	std::cout << "Hello";
+
 	return 0;
 }
